@@ -1,1 +1,14 @@
 
+  body {
+    background-color: var(--body-color);
+    color: var(--text-color);
+  }
+
+  /* Variables de colores */
+  :root {
+    --main-color: #cc7644;
+    --hover-color: #faf8f8;
+    --body-color: #1067a1;
+    --container-color: #172c3a;
+    --text-color: #fcfeff;
+  }
